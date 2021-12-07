@@ -21,7 +21,7 @@ int main() {
     bool isTodayWeekend = false;
 
     // if(isTodaySunny && isTodayWeekend) {
-    //     cout<<"Go to the park"<<endl;
+        // cout<<"Go to the park"<<endl;
     // }
     // else if (isTodayWeekend && !isTodaySunny) {
     //     cout<<"Go to the park but take...."<<endl;
